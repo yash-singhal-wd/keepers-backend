@@ -1,0 +1,28 @@
+{
+    "name": "keepers",
+    "version": "1.0.0",
+    "description": "Generate and arrange passwords!",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon index"
+    },
+    "keywords": [],
+    "author": "Yash Singhal",
+    "license": "ISC",
+    "dependencies": {
+        "@hapi/joi": "^17.1.0",
+        "bcrypt": "^4.0.0",
+        "config": "^3.3.0",
+        "cors": "^2.8.5",
+        "cryptr": "^6.0.1",
+        "express": "^4.17.1",
+        "joi-objectid": "^3.0.1",
+        "jsonwebtoken": "^8.5.1",
+        "lodash": "^4.17.15",
+        "mongodb": "^3.5.4",
+        "mongoose": "^5.9.2",
+        "nodemon": "^2.0.2",
+        "password-generator": "^2.2.3"
+    }
+}

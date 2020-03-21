@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "keepers_jwtKey",
+    "cryptrKey": "keepers_cryptrKey"
+}
